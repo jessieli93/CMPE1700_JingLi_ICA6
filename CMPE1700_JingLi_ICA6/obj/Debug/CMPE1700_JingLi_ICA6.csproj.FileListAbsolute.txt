@@ -1,0 +1,6 @@
+\\nait.ca\private\UserFolderRedirects\jli83\Desktop\CMPE1700_JingLi_ICA6\CMPE1700_JingLi_ICA6\bin\Debug\CMPE1700_JingLi_ICA6.exe.config
+\\nait.ca\private\UserFolderRedirects\jli83\Desktop\CMPE1700_JingLi_ICA6\CMPE1700_JingLi_ICA6\bin\Debug\CMPE1700_JingLi_ICA6.exe
+\\nait.ca\private\UserFolderRedirects\jli83\Desktop\CMPE1700_JingLi_ICA6\CMPE1700_JingLi_ICA6\bin\Debug\CMPE1700_JingLi_ICA6.pdb
+\\nait.ca\private\UserFolderRedirects\jli83\Desktop\CMPE1700_JingLi_ICA6\CMPE1700_JingLi_ICA6\obj\Debug\CMPE1700_JingLi_ICA6.csprojResolveAssemblyReference.cache
+\\nait.ca\private\UserFolderRedirects\jli83\Desktop\CMPE1700_JingLi_ICA6\CMPE1700_JingLi_ICA6\obj\Debug\CMPE1700_JingLi_ICA6.exe
+\\nait.ca\private\UserFolderRedirects\jli83\Desktop\CMPE1700_JingLi_ICA6\CMPE1700_JingLi_ICA6\obj\Debug\CMPE1700_JingLi_ICA6.pdb
